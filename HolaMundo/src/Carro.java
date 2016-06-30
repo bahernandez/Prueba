@@ -47,6 +47,20 @@ public class Carro {
 	public void setLlantas(String llantas) {
 		this.llantas = llantas;
 	}
+
+	/**
+	 * @return the precio
+	 */
+	public int getPrecio() {
+		return precio;
+	}
+
+	/**
+	 * @param precio the precio to set
+	 */
+	public void setPrecio(int precio) {
+		this.precio = precio;
+	}
 	
 	
 }
