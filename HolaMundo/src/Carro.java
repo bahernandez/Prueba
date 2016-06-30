@@ -32,6 +32,20 @@ public class Carro {
 	public void setEdad(int edad) {
 		this.edad = edad;
 	}
+
+	/**
+	 * @return the llantas
+	 */
+	public String getLlantas() {
+		return llantas;
+	}
+
+	/**
+	 * @param llantas the llantas to set
+	 */
+	public void setLlantas(String llantas) {
+		this.llantas = llantas;
+	}
 	
 	
 }
