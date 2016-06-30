@@ -3,6 +3,7 @@ public class Carro {
 
 	public String dog = "";
 	public int edad = 0;
+	public String llantas = "Michellin";
 
 	/**
 	 * @return the dog
