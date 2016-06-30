@@ -4,6 +4,7 @@ public class Carro {
 	public String dog = "";
 	public int edad = 0;
 	public String llantas = "Michellin";
+	public int precio = 0;
 
 	/**
 	 * @return the dog
