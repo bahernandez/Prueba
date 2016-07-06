@@ -1,0 +1,4 @@
+public class Perro
+{
+  public int edad = 0;
+}
