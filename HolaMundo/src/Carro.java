@@ -6,6 +6,7 @@ public class Carro {
 	public int edad = 0;
 	public String llantas = "Michellin";
 	public int precio = 0;
+	public Double cotizacion;
 
 	/**
 	 * @return the dog
