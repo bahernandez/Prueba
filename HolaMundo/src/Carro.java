@@ -64,6 +64,14 @@ public class Carro {
 	public void setPrecio(int precio) {
 		this.precio = precio;
 	}
+
+	public Double getCodigo() {
+		return codigo;
+	}
+
+	public void setCodigo(Double codigo) {
+		this.codigo = codigo;
+	}
 	
 	
 }
